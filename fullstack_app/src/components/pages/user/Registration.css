@@ -1,0 +1,49 @@
+.mdb-select {
+  width: 97%;
+  padding-left: 2.2rem;
+}
+
+.counter {
+  display: flex;
+}
+
+.counter-action {
+  border: none;
+  font-weight: bold;
+  color: #FAFAFA;
+  display: block;
+  padding: 20px 5px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.counter-action.increment {
+  background: #66BB6A;
+}
+
+.counter-action.increment:hover {
+  background: #549d59;
+  cursor: pointer;
+}
+
+.counter-action.decrement {
+  background: #ef5350;
+}
+
+.counter-action.decrement:hover {
+  background: #c44442;
+  cursor: pointer;
+}
+
+.counter-score {
+  flex-grow: 1;
+  background: #2b2b2b;
+  color: #FAFAFA;
+  text-align: center;
+  font-family: monospace;
+  padding: 10px;
+  font-size: 2em;
+}

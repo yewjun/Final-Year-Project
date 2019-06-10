@@ -1,0 +1,24 @@
+
+Please ensure that you have installed the following software on your computer
+1. Yarn - https://yarnpkg.com/lang/en/docs/install/#windows-stable
+2. Node.js - https://nodejs.org/en/download/
+
+Follow the steps below to run the software:
+1. Extract the downloaded zip folder
+2. Open Windows PowerShell
+3. Copy the 'Online Vehicle Registration Using QR Code-2019_Tong_software' folder path.
+4. Type 'cd' and paste the copied folder path in the terminal, encompassed in single quotes ('), then press 'Enter'
+5. Type 'yarn install' and then press 'Enter' and wait for the installation to finish
+6. Type 'cd fullstack_app' and press 'Enter'
+7. Type 'yarn install' and then press 'Enter' and wait for the installation to finish
+8. Type 'cd ..' and press 'Enter'
+9. Type 'cd backend' and press 'Enter'
+10. Type 'yarn install' and then press 'Enter' and wait for the installation to finish
+11. Type 'cd ..' and press 'Enter'
+12. Type 'yarn start' and press 'Enter'
+13. The webpage 'localhost:3000' will automatically open in your default web browser
+
+Please sign in using the following credentials:
+- For Admin account:
+email: tongyewjun@gmail.com
+password: 123456
