@@ -1072,8 +1072,8 @@ local-ip-url@^1.0.1:
   resolved "https://registry.yarnpkg.com/local-ip-url/-/local-ip-url-1.0.1.tgz#0f20febcc08fcc0921987a9e29a4ee5d565d0cd4"
 
 lodash@^4.17.11:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 lowercase-keys@^1.0.0:
   version "1.0.1"
